@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* v4 වල custom fonts/colors දාන්න ඕන නම් @theme යටතේ දාන්න පුළුවන්.
+   දැනට අපිට default colors ඇති. */
+
+@layer base {
+  body {
+    background-color: #0f172a; /* Dark Slate Background */
+    color: white;
+  }
+}
